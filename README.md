@@ -20,9 +20,3 @@ Por se tratar de uma aplicação client-side estática nativa, não é necessár
 2. Acesse o diretório do projeto através do seu terminal ou gerenciador de arquivos.
 3. Dê um duplo clique no arquivo `index.html` para abri-lo automaticamente em seu navegador web padrão, ou utilize a extensão Live Server em seu editor de código.
 
-## 📬 <Contato>
-* **Nome**: Giovanna De Campos Gomes Cardim
-* **Email**: Giovannacardim.profissional@gmail.com
-* **Telefone**: +55 (11) 9.8944-1164
-* **LinkedIn**: [giovanna_cardim](https://linkedin.com/in/giovanna_cardim)
-* **GitHub**: [Giovanna_annavoiG](https://github.com/Giovanna_annavoiG)
